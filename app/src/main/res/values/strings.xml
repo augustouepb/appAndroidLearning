@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="title_activity_act_main">ActMain</string>
+    <string name="title_activity_cadastra_cliente">CadastraCliente</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="lista_de_pessoas">Lista de pessoas</string>
+    <string name="digite_o_nome">Digite o nome</string>
+    <string name="nome">Nome</string>
+    <string name="digite_o_sobre_nome">Digite o sobre nome</string>
+    <string name="sobre_nome">Sobre nome</string>
+    <string name="title_menu_ok">Ok</string>
+    <string name="textview">TextView</string>
+    <string name="Excluir">Excluir</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
